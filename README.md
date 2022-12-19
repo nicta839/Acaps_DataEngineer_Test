@@ -46,7 +46,7 @@ We also present the confusion matrix for further reference
 
 ## Workflow description and considerations
 
-We invite the reader to go to the [report](../reports/description_considerations.pdf) for the second part of the assignment and the answers to those questions.
+We invite the reader to go to the [report](https://github.com/nicta839/Acaps_DataEngineer_Test/blob/main/reports/description_considerations.pdf) for the second part of the assignment and the answers to those questions.
 
 ## Installation and usage
 
@@ -56,7 +56,7 @@ First clone the repository in your directory of choice. Then install the require
 pip install -r requirements.txt
 
 ```
-The code is located under [notebooks](../notebooks/). The notebooks `0.2_Modelling_baselines` and `0.3_BiLSTM_model` are lengthy to compute without the appropriate CPU and GPU resources, respectively. We suggest to run the data cleaning and performance metrics notebooks to check that the code is working.
+The code is located under [notebooks](https://github.com/nicta839/Acaps_DataEngineer_Test/tree/main/notebooks). The notebooks `0.2_Modelling_baselines` and `0.3_BiLSTM_model` are lengthy to compute without the appropriate CPU and GPU resources, respectively. We suggest to run the data cleaning and performance metrics notebooks to check that the code is working.
 
 ## License
 
