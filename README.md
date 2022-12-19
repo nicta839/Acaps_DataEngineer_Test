@@ -38,11 +38,11 @@ To evaluate the model, we use precision, recall, accuracy and f1-score to measur
 
 ![](https://github.com/nicta839/Acaps_DataEngineer_Test/blob/main/reports/figures/ROC_AUC.png)
 
-<img src="../reports/figures/ROC_AUC.png" alt="Alt text" title="ROC & AUC">
+
 
 We also present the confusion matrix for further reference
 
-![alt text]([../reports/figures/](https://github.com/nicta839/Acaps_DataEngineer_Test/tree/main/reports/figures/)CM.png?raw=true)
+![](https://github.com/nicta839/Acaps_DataEngineer_Test/blob/main/reports/figures/CM.png)
 
 ## Workflow description and considerations
 
