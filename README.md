@@ -38,6 +38,8 @@ To evaluate the model, we use precision, recall, accuracy and f1-score to measur
 
 ![alt text](../reports/figures/ROC_AUC.png)
 
+<img src="../reports/figures/ROC_AUC.png" alt="Alt text" title="ROC & AUC">
+
 We also present the confusion matrix for further reference
 
 ![alt text](../reports/figures/CM.png)
