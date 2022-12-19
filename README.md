@@ -36,7 +36,7 @@ To evaluate the model, we use precision, recall, accuracy and f1-score to measur
 | Weighted avg.    | 0.86      | 0.86   | 0.86     |
 
 
-![alt text](https://github.com/nicta839/Acaps_DataEngineer_Test/tree/main/reports/figures/ROC_AUC.png?raw=true)
+![](https://github.com/nicta839/Acaps_DataEngineer_Test/blob/main/reports/figures/ROC_AUC.png)
 
 <img src="../reports/figures/ROC_AUC.png" alt="Alt text" title="ROC & AUC">
 
