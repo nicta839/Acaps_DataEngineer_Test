@@ -36,7 +36,11 @@ To evaluate the model, we use precision, recall, accuracy and f1-score to measur
 | Weighted avg.    | 0.86      | 0.86   | 0.86     |
 
 
-![alt text](../reports/ROC_AUC.png)
+![alt text](../reports/figures/ROC_AUC.png)
+
+We also present the confusion matrix for further reference
+
+![alt text](../reports/figures/CM.png)
 
 ## Workflow description and considerations
 
